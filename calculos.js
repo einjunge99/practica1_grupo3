@@ -18,6 +18,8 @@ function potenciaCubo(n){
 }
 
 console.log("La potencia al cubo del número es: ", potenciaCubo(69))
+//Prueba segundo numero
+console.log("La potencia al cubo del segundo número es: ", potenciaCubo(33))
 
 // obrigado
 function raizCubica(n){
