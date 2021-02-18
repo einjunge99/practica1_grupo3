@@ -23,5 +23,5 @@ console.log("La potencia al cubo del número es: ", potenciaCubo(69))
 function raizCubica(n){
 	return Math.cbrt(n);
   }
-  
-  console.log("la raiz cubica es: ", raizCubica(64));
+//poco portugues  
+console.log("a raiz cúbica é: ", raizCubica(64));
