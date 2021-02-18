@@ -5,14 +5,9 @@ function palindrome(str) {
     return reverseStr === lowRegStr;
   }
   
-  //Test
+//Test
   console.log("¿Es oro una palabra palindroma? : ",palindrome("oro"))
   
-  function exprimo(n){
-    if(n%2==0) return true
-    return false
-  }
-  
-  console.log("está apertando o número?: ",exprimo(10)?"sim":"ñao")
+//Funcionalidad aún no válida
   
   
