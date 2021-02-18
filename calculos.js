@@ -20,8 +20,10 @@ function potenciaCubo(n){
 console.log("La potencia al cubo del número es: ", potenciaCubo(69))
 //Prueba segundo numero
 console.log("La potencia al cubo del segundo número es: ", potenciaCubo(33))
+//Prueba tercer numero
+console.log("La potencia al cubo del tercer número es: ", potenciaCubo(12))
 
-// obrigado
+// obrigadoW
 function raizCubica(n){
 	return Math.cbrt(n);
   }
