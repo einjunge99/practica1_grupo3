@@ -18,3 +18,10 @@ function potenciaCubo(n){
 }
 
 console.log("La potencia al cubo del número es: ", potenciaCubo(69))
+
+// obrigado
+function raizCubica(n){
+	return Math.cbrt(n);
+  }
+  
+  console.log("la raiz cubica es: ", raizCubica(64));
