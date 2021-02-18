@@ -38,7 +38,8 @@ function multiplicacion(a,b){
 console.log("Multiplicacion 5*3: ", multiplicacion(5,3));
 
 function division(a,b){
-	return a/b;
+	if(b != 0)return a/b;
+	return "Error, división entre cero indefinida.";
 }
 
 console.log("Division 10/2: ", division(10,2));
