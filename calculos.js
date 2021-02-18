@@ -14,7 +14,7 @@ console.log(" 5 es primo? : " , nPrimo(5));
 
 //Potencia
 function potenciaCubo(n){
-	return n**3;
+	return Math.pow(n,3);
 }
 
 console.log("La potencia al cubo del número es: ", potenciaCubo(69))
