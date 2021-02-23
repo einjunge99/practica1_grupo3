@@ -6,4 +6,6 @@ Rama: Feature
 
 Jose Eduardo Moran 201807455
 
-Rama: Bugfix
+Rama: Hotfix
+
+William Enrique Can 201602843
